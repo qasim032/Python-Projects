@@ -102,7 +102,6 @@ Suggest new features
 📬 Contact
 Questions or suggestions? Feel free to reach out:
 
-GitHub: @yourusername
 ⭐ Star this repository if it helped you learn Python!
 
 Happy Coding! 🚀
